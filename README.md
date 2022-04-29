@@ -1,0 +1,2 @@
+# Hyperspectral_Image_Stitching_via_Optimal_Seamline_Detection
+The demo code for the Hyperspectral_Image_Stitching_via_Optimal_Seamline_Detection.
